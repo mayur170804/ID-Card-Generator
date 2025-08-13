@@ -21,12 +21,6 @@ A Java Swing application to generate ID cards with live preview, photo upload, d
 * `BufferedImage` & `Graphics2D` for rendering
 * `ImageIO` for reading images and exporting PNG
 
-## Usage
-
-1. Clone the repository.
-2. Open in your favorite IDE (IntelliJ IDEA, Eclipse, etc.).
-3. Run `IDCardGenerator.java`.
-4. Fill in all fields, upload a photo, and export the ID card as PNG.
 
 ## Optional Enhancements
 
